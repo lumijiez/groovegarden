@@ -4,6 +4,10 @@
 
 This 2D top-down RPG project is inspired by a Udemy tutorial but includes significant enhancements and custom features. The game showcases custom implementations across various aspects, providing a unique and upgraded experience.
 
+## Video Overview
+
+Check out the video overview of the project: [Watch on YouTube](https://youtu.be/nxVnpZ0sTu0)
+
 ## Features
 
 - **Custom Physics**: Implemented unique physics mechanics tailored to the gameplay.
@@ -17,10 +21,10 @@ This 2D top-down RPG project is inspired by a Udemy tutorial but includes signif
 
 To get started, clone the repository and follow the setup instructions provided in the project.
 
-!!bash
-git clone https://github.com/yourusername/2d-top-down-rpg.git
+```bash
+git clone https://github.com/lumijiez/unity-groovegarden.git
 cd 2d-top-down-rpg
-!!
+```
 
 For detailed setup and gameplay instructions, refer to the `README.md` file within the project directory.
 
